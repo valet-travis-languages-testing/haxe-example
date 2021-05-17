@@ -1,0 +1,10 @@
+language: haxe
+
+haxe:
+  - "3.2.1"
+
+neko: "2.0.0"
+
+hxml:
+  - build.hxml
+  - build1.hxml
